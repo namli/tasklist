@@ -1,0 +1,17 @@
+{
+    "name": "namli/todo",
+    "authors": [
+        {
+            "name": "namli",
+            "email": "namli@mail.ru"
+        }
+    ],
+    "autoload": {
+        "classmap": [
+            "./"
+        ]
+    },
+    "require-dev": {
+        "phpunit/phpunit": "^9.5"
+    }
+}
